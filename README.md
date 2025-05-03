@@ -67,10 +67,3 @@ I thrive in building scalable, secure, and efficient systems using **TypeScript 
 - 🌍 VK: [vk.com/buuueeeeeee](https://vk.com/buuueeeeeee)
 
 ---
-
-### 🧊 Fun Fact
-
-> I sometimes write code for 10–12 hours straight and still feel like it wasn’t enough.  
-> Coffee? Nah, I run on refactors and AI prompts. ☕
-
----
