@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Igor</h1>
 <p align="center">
-  🚀 Backend & Fullstack Developer | 🧠 AI Tools Developer | 🛠️ Builder of Side Projects
+  🚀 Fullstack Developer | 🧠 AI Tools Developer | 🛠️ Builder of Side Projects
 </p>
 
 <div align="center">
